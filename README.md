@@ -1,2 +1,4 @@
 # adewale.github.io
-My old-fashioned static website
+The personal website of Adewale Oshineye: http://www.oshineye.com
+
+It's small, static and mostly harmless.
